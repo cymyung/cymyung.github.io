@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "cymyung"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : " "
+  bio              : "                   "
   location         : "Seoul and Daejeon, Korea"
   email            : cymyung@gmail.com
   links:
@@ -124,7 +124,7 @@ author:
       url: "https://facebook.com/cymyung"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://cymyung.github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
