@@ -7,7 +7,7 @@ main:
   - title: "cateaaa1"
     url: /cate_aaa/
   - title: "taxoaaa1"
-    url: /taxoaaa/
+    url: /cate_bbb/
   - title: "categories"
     url: /categories/
   #- title: "Project"
