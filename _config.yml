@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "cymyung"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : #"나도 프로그래밍 잘하고 싶다."
+  bio              : " "
   location         : "Seoul and Daejeon, Korea"
   email            : cymyung@gmail.com
   links:
