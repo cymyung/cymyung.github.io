@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "cymyung"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/cymyung.jpg"
   bio              : "                   "
   location         : "Seoul and Daejeon, Korea"
   email            : cymyung@gmail.com
