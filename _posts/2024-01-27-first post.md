@@ -1,9 +1,9 @@
 ---
 layout: single
 title: 공부 기록을 위한 블로그 시작
-categories:
-  - data_science
-taxonomy: data_science
+#categories:
+#  - data_science
+#taxonomy: data_science
 date: '2024-01-27'
 published: True
 ---
