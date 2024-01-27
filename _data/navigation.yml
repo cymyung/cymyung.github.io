@@ -8,8 +8,8 @@ main:
     url: https://cymyung.github.io/
   - title: "Data Science"
     url: /categories/data_science/
-  - title: "English"
-    url: /categories/english/
+  #- title: "English"
+  #  url: /categories/english/
   - title: "Categories"
     url: /categories/
   #- title: "Project"
