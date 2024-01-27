@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Data Science 공부 노트"
 title_separator          : "-"
-subtitle                 : "공부한거 복습을 위한 노트입니다."
+subtitle                 : #"공부 복습 노트"
 name                     : "cymyung"
 description              : "cymyung's Data Science Study"
 url                      : "https://cymyung.github.io"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "cymyung"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "나도 프로그래밍 잘하고 싶다."
+  bio              : #"나도 프로그래밍 잘하고 싶다."
   location         : "Seoul and Daejeon, Korea"
   email            : cymyung@gmail.com
   links:
