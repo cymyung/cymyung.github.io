@@ -3,6 +3,7 @@ layout: single
 title: 공부 기록을 위한 블로그를 시작한다.
 categories:
   # - Data Science
+date: '2024-01-27'
 published: True
 ---
 
