@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "cymyung's Data Science Study"
+title                    : "Data Science 공부 노트"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "공부한거 복습을 위한 노트입니다."
 name                     : "cymyung"
 description              : "cymyung's Data Science Study"
 url                      : "https://cymyung.github.io"
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "cymyung"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "나도 프로그래밍 잘하고 싶다."
+  location         : "Seoul and Daejeon, Korea"
+  email            : cymyung@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
