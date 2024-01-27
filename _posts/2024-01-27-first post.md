@@ -3,7 +3,7 @@ layout: single
 title: 공부 기록을 위한 블로그를 시작한다.
 categories:
   - cate_aaa
-taxonomy: taxo_aaa
+taxonomy: cate_aaa
 date: '2024-01-27'
 published: True
 ---
