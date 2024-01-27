@@ -1,6 +1,8 @@
 ---
 layout: single
 title: 공부 기록을 위한 블로그를 시작한다.
+categories:
+  # - Data Science
 ---
 
 여기는 내가 공부하고 있는
