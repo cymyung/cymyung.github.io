@@ -4,6 +4,8 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Posts"
+    url: https://cymyung.github.io/
   - title: "Data Science"
     url: /categories/data_science/
   - title: "English"
