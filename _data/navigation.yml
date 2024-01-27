@@ -10,7 +10,7 @@ main:
     url: /categories/data_science/
   - title: "English"
     url: /categories/english/
-  - title: "categories"
+  - title: "Categories"
     url: /categories/
   #- title: "Project"
   #  url: /project/
