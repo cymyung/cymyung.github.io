@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Colab to MD
+title: Colab to Markdown
 categories:
   - data_science
 taxonomy: data_science
