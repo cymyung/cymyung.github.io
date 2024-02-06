@@ -8,6 +8,6 @@ date: '2024-02-05'
 published: True
 ---
 
-https://copyprogramming.com/howto/combine-date-ranges-in-pandas-dataframe
+[Merge Date Intervals in a Pandas Dataframe](https://copyprogramming.com/howto/combine-date-ranges-in-pandas-dataframe)
 
-https://stackoverflow.com/questions/46784482/merging-time-ranges-in-python
+[merging time ranges in python](https://stackoverflow.com/questions/46784482/merging-time-ranges-in-python)
